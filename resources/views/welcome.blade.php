@@ -84,7 +84,7 @@
                     Laravel
                 </div>
                 <div>
-                    <a href="/github">GitHub</a>
+                    <a href="/github" style="font-size: 30px; font-weight:bold; color:red">GitHub</a><br><br><br>
                 </div>
 
                 <div class="links">
